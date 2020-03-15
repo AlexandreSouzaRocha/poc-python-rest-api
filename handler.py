@@ -15,7 +15,6 @@ def create_app():
 
     db.init_app(app)
 
-    from database.models import Category, Comment
     return app
 
 if __name__ == "__main__":
