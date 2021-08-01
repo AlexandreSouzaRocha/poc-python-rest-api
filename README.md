@@ -1,4 +1,4 @@
-# python-flask-rest-api
+# python-rest-api
 Study  of REST API with flask and python
 
 #### Database Migrations
